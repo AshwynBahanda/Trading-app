@@ -6,7 +6,7 @@ Created a simple trading projection app which shows the projection of certain st
 ## Run
 
 To run the application, use the commands:
-<code>pip install -r requirements.txt</code>. 
+<code>pip install -r requirements.txt</code>. /n
 <code>streamlit run app.py</code>. 
 
 This should open localhost on your web browser where you can see the projection for certain stocks.
